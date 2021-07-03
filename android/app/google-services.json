@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922936127095",
+    "project_id": "wetune-42f80",
+    "storage_bucket": "wetune-42f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922936127095:android:8d3ec4dca9862ee8c66072",
+        "android_client_info": {
+          "package_name": "com.webitoinfotech.wetune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922936127095-ar0ngr1enrm1l5vq9b6qjfa59tpp9qja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfn4xfaynG_7b8U8V85q-pli6TKTBNSaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922936127095-ar0ngr1enrm1l5vq9b6qjfa59tpp9qja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
